@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MT_PnLs_ItemUOM xmlns:ns0="urn:VinCM:PnLs:SAPECC:To:PnLs:ARTMAS:ArticleMaster">
+    <SAPIDocNo>140532947</SAPIDocNo>
+    <ItemUOM>
+        <ItemNo>10010422</ItemNo>
+        <Code>G1</Code>
+        <NumeratorOfQtyUOM>1</NumeratorOfQtyUOM>
+        <DenominatorOfQtyUOM>1</DenominatorOfQtyUOM>
+        <Length>5.000</Length>
+        <Width>18.000</Width>
+        <Height>30.000</Height>
+        <Cubage>0.027</Cubage>
+        <Weight>0.100</Weight>
+    </ItemUOM>
+</ns0:MT_PnLs_ItemUOM>

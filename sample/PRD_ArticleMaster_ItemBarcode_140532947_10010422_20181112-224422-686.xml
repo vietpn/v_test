@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MT_PnLs_ItemBarcode xmlns:ns0="urn:VinCM:PnLs:SAPECC:To:PnLs:ARTMAS:ArticleMaster">
+    <SAPIDocNo>140532947</SAPIDocNo>
+    <Barcode>
+        <ItemNo>10010422</ItemNo>
+        <BarcodeNo>2991092001298</BarcodeNo>
+        <UOMCode>G1</UOMCode>
+    </Barcode>
+</ns0:MT_PnLs_ItemBarcode>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MT_PnLs_Item xmlns:ns0="urn:VinCM:PnLs:SAPECC:To:PnLs:ARTMAS:ArticleMaster">
+    <SAPIDocNo>140264446</SAPIDocNo>
+    <LineItem>
+        <MaterialNo>1032410101</MaterialNo>
+        <ShortDescr>LOREAL CR son lì 237 cam blush 4.2g</ShortDescr>
+        <FullDescr>LOREAL CR son lì 237 cam blush 4.2g</FullDescr>
+        <BaseUOM>CAI</BaseUOM>
+        <BrandNo>LOREAL</BrandNo>
+        <Model></Model>
+        <Blocked>0</Blocked>
+        <VATGroup>4</VATGroup>
+        <SalesUOM>CAI</SalesUOM>
+        <Level5Code>202030706</Level5Code>
+        <SpecialAttributes></SpecialAttributes>
+        <NoStockPosting>0</NoStockPosting>
+        <SerialNumCheck></SerialNumCheck>
+        <BlockVINID>X</BlockVINID>
+        <ArticleType>ZTRD</ArticleType>
+    </LineItem>
+</ns0:MT_PnLs_Item>

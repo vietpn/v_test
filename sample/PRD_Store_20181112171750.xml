@@ -1,0 +1,586 @@
+<?xml version="1.0" standalone="yes"?>
+<MasterData xmlns="VCM:PnLs:Interface">
+    <STORE>
+        <STORE_CODE>1511</STORE_CODE>
+        <STORE_NAME>VM Ba Tháng Hai</STORE_NAME>
+        <CITY_CODE>54</CITY_CODE>
+        <CITY>Hồ Chí Minh</CITY>
+        <ADDRESS>3-3C 3-3C Ba Tháng Hai, P11, Q</ADDRESS>
+        <PHONE_NUMBER>1688266643</PHONE_NUMBER>
+        <LATITUDE>10.776356</LATITUDE>
+        <LONGITUDE>106.680773</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1513</STORE_CODE>
+        <STORE_NAME>VM Cộng Hòa</STORE_NAME>
+        <CITY_CODE>54</CITY_CODE>
+        <CITY>Hồ Chí Minh</CITY>
+        <ADDRESS>15-17 15-17 Cộng Hòa, P.4, Q.T</ADDRESS>
+        <PHONE_NUMBER>908100071</PHONE_NUMBER>
+        <LATITUDE>10.801786</LATITUDE>
+        <LONGITUDE>106.655838</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1515</STORE_CODE>
+        <STORE_NAME>VM Pleiku</STORE_NAME>
+        <CITY_CODE>49</CITY_CODE>
+        <CITY>Gia Lai</CITY>
+        <ADDRESS>60 60 Hai Bà Trưng, Tp.Pleiku</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>13.980697</LATITUDE>
+        <LONGITUDE>107.998195</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1518</STORE_CODE>
+        <STORE_NAME>VM Mỹ Phước 1</STORE_NAME>
+        <CITY_CODE>55</CITY_CODE>
+        <CITY>Bình Dương</CITY>
+        <ADDRESS>2/242 Khu công nghiệp Mỹ Phước</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>11.125685</LATITUDE>
+        <LONGITUDE>106.601457</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1519</STORE_CODE>
+        <STORE_NAME>VM Ninh Kiều</STORE_NAME>
+        <CITY_CODE>65</CITY_CODE>
+        <CITY>Cần Thơ</CITY>
+        <ADDRESS>42 42 đường 30/4, An Phú, Ninh</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>10.030836</LATITUDE>
+        <LONGITUDE>105.778403</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1522</STORE_CODE>
+        <STORE_NAME>VM Kontum</STORE_NAME>
+        <CITY_CODE>50</CITY_CODE>
+        <CITY>Kon Tum</CITY>
+        <ADDRESS>VinMart Trần Hưng Đạo, Phường</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>14.349116</LATITUDE>
+        <LONGITUDE>107.999597</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1524</STORE_CODE>
+        <STORE_NAME>VM Nha Trang</STORE_NAME>
+        <CITY_CODE>46</CITY_CODE>
+        <CITY>Khánh Hòa</CITY>
+        <ADDRESS>60 60 Thái Nguyên, P.Phương Sà</ADDRESS>
+        <PHONE_NUMBER>906417571</PHONE_NUMBER>
+        <LATITUDE>12.248401</LATITUDE>
+        <LONGITUDE>109.18455</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1526</STORE_CODE>
+        <STORE_NAME>VM Cam Ranh</STORE_NAME>
+        <CITY_CODE>46</CITY_CODE>
+        <CITY>Khánh Hòa</CITY>
+        <ADDRESS>3 3 Hùng Vương, TX.Cam Ranh</ADDRESS>
+        <PHONE_NUMBER>984939699</PHONE_NUMBER>
+        <LATITUDE>11.926015</LATITUDE>
+        <LONGITUDE>109.16614</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1527</STORE_CODE>
+        <STORE_NAME>VM Bàu Cát</STORE_NAME>
+        <CITY_CODE>54</CITY_CODE>
+        <CITY>Hồ Chí Minh</CITY>
+        <ADDRESS>Lô A Chung cư Bàu Cát II - Đườ</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>10.785642</LATITUDE>
+        <LONGITUDE>106.643105</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1528</STORE_CODE>
+        <STORE_NAME>VM Bình Trưng</STORE_NAME>
+        <CITY_CODE>54</CITY_CODE>
+        <CITY>Hồ Chí Minh</CITY>
+        <ADDRESS>231 231 Nguyễn Thị Định, P.Bìn</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>10.784992</LATITUDE>
+        <LONGITUDE>106.757702</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1529</STORE_CODE>
+        <STORE_NAME>VM Buôn Mê Thuột</STORE_NAME>
+        <CITY_CODE>51</CITY_CODE>
+        <CITY>Đắk Lắk</CITY>
+        <ADDRESS>72 TTTM Vincom Buôn Mê Thuột s</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>12.681848</LATITUDE>
+        <LONGITUDE>108.041717</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1530</STORE_CODE>
+        <STORE_NAME>VM Hà Đông</STORE_NAME>
+        <CITY_CODE>10</CITY_CODE>
+        <CITY>Hà Nội</CITY>
+        <ADDRESS>CT1A- CT1B Tòa nhà CT1A- CT1B</ADDRESS>
+        <PHONE_NUMBER>987745848</PHONE_NUMBER>
+        <LATITUDE>20.963428</LATITUDE>
+        <LONGITUDE>105.791597</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1531</STORE_CODE>
+        <STORE_NAME>VM Thăng Long</STORE_NAME>
+        <CITY_CODE>10</CITY_CODE>
+        <CITY>Hà Nội</CITY>
+        <ADDRESS>28 Tầng Tổ hợp nhà ở 28 tầng,</ADDRESS>
+        <PHONE_NUMBER>966048099</PHONE_NUMBER>
+        <LATITUDE>21.038094</LATITUDE>
+        <LONGITUDE>105.793966</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1532</STORE_CODE>
+        <STORE_NAME>VM Royal City</STORE_NAME>
+        <CITY_CODE>10</CITY_CODE>
+        <CITY>Hà Nội</CITY>
+        <ADDRESS>72A Số 72A đường Nguyễn Trãi -</ADDRESS>
+        <PHONE_NUMBER>1656446964</PHONE_NUMBER>
+        <LATITUDE>21.001009</LATITUDE>
+        <LONGITUDE>105.816341</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1533</STORE_CODE>
+        <STORE_NAME>VM Trung Hòa</STORE_NAME>
+        <CITY_CODE>10</CITY_CODE>
+        <CITY>Hà Nội</CITY>
+        <ADDRESS>Ocean Mall TTTM Ocean Mall Tru</ADDRESS>
+        <PHONE_NUMBER>943500148</PHONE_NUMBER>
+        <LATITUDE>21.007602</LATITUDE>
+        <LONGITUDE>105.801852</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1535</STORE_CODE>
+        <STORE_NAME>VM Times City</STORE_NAME>
+        <CITY_CODE>10</CITY_CODE>
+        <CITY>Hà Nội</CITY>
+        <ADDRESS>458 B1-C55 Khu đô thị Times Ci</ADDRESS>
+        <PHONE_NUMBER>936365881</PHONE_NUMBER>
+        <LATITUDE>20.994207</LATITUDE>
+        <LONGITUDE>105.869345</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1537</STORE_CODE>
+        <STORE_NAME>VM Ninh Bình</STORE_NAME>
+        <CITY_CODE>20</CITY_CODE>
+        <CITY>Ninh Bình</CITY>
+        <ADDRESS>848 Số 848 Đường Trần Hưng Đạo</ADDRESS>
+        <PHONE_NUMBER>983564171</PHONE_NUMBER>
+        <LATITUDE>20.259279</LATITUDE>
+        <LONGITUDE>105.970186</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1539</STORE_CODE>
+        <STORE_NAME>VM Bà Triệu</STORE_NAME>
+        <CITY_CODE>10</CITY_CODE>
+        <CITY>Hà Nội</CITY>
+        <ADDRESS>191 Tầng 1, TTTM Vincom Center</ADDRESS>
+        <PHONE_NUMBER>1683851251</PHONE_NUMBER>
+        <LATITUDE>21.011215</LATITUDE>
+        <LONGITUDE>105.849759</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1540</STORE_CODE>
+        <STORE_NAME>VM Ninh Thuận</STORE_NAME>
+        <CITY_CODE>47</CITY_CODE>
+        <CITY>Ninh Thuận</CITY>
+        <ADDRESS>122 Đường 16/4, P.Mỹ Hài, TP.P</ADDRESS>
+        <PHONE_NUMBER>986683899</PHONE_NUMBER>
+        <LATITUDE>11.563991</LATITUDE>
+        <LONGITUDE>109.005316</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1541</STORE_CODE>
+        <STORE_NAME>VM Long Biên</STORE_NAME>
+        <CITY_CODE>10</CITY_CODE>
+        <CITY>Hà Nội</CITY>
+        <ADDRESS>VC LBiên TTTM Vincom center Lo</ADDRESS>
+        <PHONE_NUMBER>943289895</PHONE_NUMBER>
+        <LATITUDE>21.050761</LATITUDE>
+        <LONGITUDE>105.916384</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1542</STORE_CODE>
+        <STORE_NAME>VM Văn Quán</STORE_NAME>
+        <CITY_CODE>10</CITY_CODE>
+        <CITY>Hà Nội</CITY>
+        <ADDRESS>CT7A Tầng 1 nhà CT7A, khu đô t</ADDRESS>
+        <PHONE_NUMBER>904016236</PHONE_NUMBER>
+        <LATITUDE>20.974335</LATITUDE>
+        <LONGITUDE>105.789277</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1543</STORE_CODE>
+        <STORE_NAME>VM Hạ Long</STORE_NAME>
+        <CITY_CODE>17</CITY_CODE>
+        <CITY>Quảng Ninh</CITY>
+        <ADDRESS>VC Hạ Long Vincom Center Hạ Lo</ADDRESS>
+        <PHONE_NUMBER>1695855505</PHONE_NUMBER>
+        <LATITUDE>20.950333</LATITUDE>
+        <LONGITUDE>107.084611</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1544</STORE_CODE>
+        <STORE_NAME>VM Thủ Đức</STORE_NAME>
+        <CITY_CODE>54</CITY_CODE>
+        <CITY>Hồ Chí Minh</CITY>
+        <ADDRESS>216 216 Võ Văn Ngân, phường Bì</ADDRESS>
+        <PHONE_NUMBER>993292891</PHONE_NUMBER>
+        <LATITUDE>10.850938</LATITUDE>
+        <LONGITUDE>106.758719</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1545</STORE_CODE>
+        <STORE_NAME>VM Đồng Khởi</STORE_NAME>
+        <CITY_CODE>54</CITY_CODE>
+        <CITY>Hồ Chí Minh</CITY>
+        <ADDRESS>72 Vincom Center Đồng Khởi, 72</ADDRESS>
+        <PHONE_NUMBER>919446603</PHONE_NUMBER>
+        <LATITUDE>10.777933</LATITUDE>
+        <LONGITUDE>106.699976</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1546</STORE_CODE>
+        <STORE_NAME>VM Đà Nẵng</STORE_NAME>
+        <CITY_CODE>41</CITY_CODE>
+        <CITY>Đà Nẵng</CITY>
+        <ADDRESS>910A TTTM Vincom Đà Nẵng – N</ADDRESS>
+        <PHONE_NUMBER>905297280</PHONE_NUMBER>
+        <LATITUDE>16.071692</LATITUDE>
+        <LONGITUDE>108.212725</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1547</STORE_CODE>
+        <STORE_NAME>VM Cần Thơ</STORE_NAME>
+        <CITY_CODE>65</CITY_CODE>
+        <CITY>Cần Thơ</CITY>
+        <ADDRESS>2 2 Hùng Vương – Phường Thới B</ADDRESS>
+        <PHONE_NUMBER>932911118</PHONE_NUMBER>
+        <LATITUDE>10.042975</LATITUDE>
+        <LONGITUDE>105.777392</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1548</STORE_CODE>
+        <STORE_NAME>VM Biên Hòa</STORE_NAME>
+        <CITY_CODE>58</CITY_CODE>
+        <CITY>Đồng Nai</CITY>
+        <ADDRESS>201 Tầng 2 – TTTM Vincom Biên</ADDRESS>
+        <PHONE_NUMBER>977025332</PHONE_NUMBER>
+        <LATITUDE>10.95769</LATITUDE>
+        <LONGITUDE>106.840987</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1549</STORE_CODE>
+        <STORE_NAME>VM Quang Trung</STORE_NAME>
+        <CITY_CODE>54</CITY_CODE>
+        <CITY>Hồ Chí Minh</CITY>
+        <ADDRESS>190 190 đường Quang Trung, Phư</ADDRESS>
+        <PHONE_NUMBER>0838941288</PHONE_NUMBER>
+        <LATITUDE>10.829366</LATITUDE>
+        <LONGITUDE>106.670336</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1550</STORE_CODE>
+        <STORE_NAME>VM Hải Phòng</STORE_NAME>
+        <CITY_CODE>16</CITY_CODE>
+        <CITY>Hải Phòng</CITY>
+        <ADDRESS>4 &amp; 5 Số 4 &amp; 5 Lê Thánh Tông,</ADDRESS>
+        <PHONE_NUMBER>918666356</PHONE_NUMBER>
+        <LATITUDE>20.865905</LATITUDE>
+        <LONGITUDE>106.691929</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1551</STORE_CODE>
+        <STORE_NAME>VM Phan Văn Trị</STORE_NAME>
+        <CITY_CODE>54</CITY_CODE>
+        <CITY>Hồ Chí Minh</CITY>
+        <ADDRESS>A12 Số A12 Phan Văn Trị, Phườn</ADDRESS>
+        <PHONE_NUMBER>938819279</PHONE_NUMBER>
+        <LATITUDE>10.830438</LATITUDE>
+        <LONGITUDE>106.676348</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1553</STORE_CODE>
+        <STORE_NAME>VM Nguyễn Chí Thanh</STORE_NAME>
+        <CITY_CODE>10</CITY_CODE>
+        <CITY>Hà Nội</CITY>
+        <ADDRESS>54A 54A Nguyễn Chí Thanh, Q. Đ</ADDRESS>
+        <PHONE_NUMBER>973901073</PHONE_NUMBER>
+        <LATITUDE>21.023128</LATITUDE>
+        <LONGITUDE>105.809769</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1560</STORE_CODE>
+        <STORE_NAME>VM Dĩ An</STORE_NAME>
+        <CITY_CODE>55</CITY_CODE>
+        <CITY>Bình Dương</CITY>
+        <ADDRESS>Tầng 1 Thị trấn Dĩ An</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>10.9075</LATITUDE>
+        <LONGITUDE>106.767253</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1561</STORE_CODE>
+        <STORE_NAME>VM Thảo Điền</STORE_NAME>
+        <CITY_CODE>54</CITY_CODE>
+        <CITY>Hồ Chí Minh</CITY>
+        <ADDRESS>37 Phường Thảo Điền, Quận 2,</ADDRESS>
+        <PHONE_NUMBER>1229906699</PHONE_NUMBER>
+        <LATITUDE>10.802311</LATITUDE>
+        <LONGITUDE>106.73876</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1563</STORE_CODE>
+        <STORE_NAME>VM Long Xuyên</STORE_NAME>
+        <CITY_CODE>64</CITY_CODE>
+        <CITY>An Giang</CITY>
+        <ADDRESS>VinMart Phường Mỹ Bình, thành</ADDRESS>
+        <PHONE_NUMBER>982930250</PHONE_NUMBER>
+        <LATITUDE>10.383681</LATITUDE>
+        <LONGITUDE>105.435094</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1564</STORE_CODE>
+        <STORE_NAME>VM Việt Trì</STORE_NAME>
+        <CITY_CODE>34</CITY_CODE>
+        <CITY>Phú Thọ</CITY>
+        <ADDRESS>2 Tầng 2 TTTM Vincom Plaza, Số</ADDRESS>
+        <PHONE_NUMBER>917855946</PHONE_NUMBER>
+        <LATITUDE>21.312285</LATITUDE>
+        <LONGITUDE>105.395757</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1567</STORE_CODE>
+        <STORE_NAME>VM Lê Văn Việt</STORE_NAME>
+        <CITY_CODE>54</CITY_CODE>
+        <CITY>Hồ Chí Minh</CITY>
+        <ADDRESS>50 50 Lê Văn Việt P. Hiệp Phú</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>10.845712</LATITUDE>
+        <LONGITUDE>106.779279</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1568</STORE_CODE>
+        <STORE_NAME>VM Nguyễn Duy Trinh</STORE_NAME>
+        <CITY_CODE>54</CITY_CODE>
+        <CITY>Hồ Chí Minh</CITY>
+        <ADDRESS>307 Số 307 Nguyễn Duy Trinh,</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>10.788465</LATITUDE>
+        <LONGITUDE>106.765683</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1569</STORE_CODE>
+        <STORE_NAME>VM Đan Phượng</STORE_NAME>
+        <CITY_CODE>10</CITY_CODE>
+        <CITY>Hà Nội</CITY>
+        <ADDRESS>Số 188 Số 188 phố Tây Sơn,</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>21.083583</LATITUDE>
+        <LONGITUDE>105.672503</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1573</STORE_CODE>
+        <STORE_NAME>VM Thái Bình</STORE_NAME>
+        <CITY_CODE>18</CITY_CODE>
+        <CITY>Thái Bình</CITY>
+        <ADDRESS>460 Số 460, phố Lý Bôn, Phường</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>20.444559</LATITUDE>
+        <LONGITUDE>106.337031</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1586</STORE_CODE>
+        <STORE_NAME>VM BLU Bạc Liêu</STORE_NAME>
+        <CITY_CODE>71</CITY_CODE>
+        <CITY>Bạc Liêu</CITY>
+        <ADDRESS>Trung tâm Thương Mại Vincom Bạ</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>9.286869</LATITUDE>
+        <LONGITUDE>105.72163</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1587</STORE_CODE>
+        <STORE_NAME>VM CTO Xuân Khánh</STORE_NAME>
+        <CITY_CODE>65</CITY_CODE>
+        <CITY>Cần Thơ</CITY>
+        <ADDRESS>209, đường 30/4, Phường Xuân K</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>10.024713</LATITUDE>
+        <LONGITUDE>105.774493</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1588</STORE_CODE>
+        <STORE_NAME>VM Hoài Đức</STORE_NAME>
+        <CITY_CODE>10</CITY_CODE>
+        <CITY>Hà Nội</CITY>
+        <ADDRESS>CT1A TP Hà Nội</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>21.074154</LATITUDE>
+        <LONGITUDE>105.700893</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1589</STORE_CODE>
+        <STORE_NAME>VM Phạm Ngọc Thạch</STORE_NAME>
+        <CITY_CODE>10</CITY_CODE>
+        <CITY>Hà Nội</CITY>
+        <ADDRESS>Số 2 B1, TTTM Vincom Phạm Ngọc</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>21.006219</LATITUDE>
+        <LONGITUDE>105.831535</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1590</STORE_CODE>
+        <STORE_NAME>VM Bắc Từ Liêm</STORE_NAME>
+        <CITY_CODE>10</CITY_CODE>
+        <CITY>Hà Nội</CITY>
+        <ADDRESS>số 234 B1, TTTM Vincom Bắc Từ</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>21.052858</LATITUDE>
+        <LONGITUDE>105.781149</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1591</STORE_CODE>
+        <STORE_NAME>VM DNI Long Thành</STORE_NAME>
+        <CITY_CODE>58</CITY_CODE>
+        <CITY>Đồng Nai</CITY>
+        <ADDRESS>251 251 Khu Phước Hải, Đường L</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>10.783891</LATITUDE>
+        <LONGITUDE>106.950397</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1592</STORE_CODE>
+        <STORE_NAME>VM VC+ HDG Chí Linh</STORE_NAME>
+        <CITY_CODE>15</CITY_CODE>
+        <CITY>Hải Dương</CITY>
+        <ADDRESS>Chí Linh - Hải Dương</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>21.110458</LATITUDE>
+        <LONGITUDE>106.389509</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1593</STORE_CODE>
+        <STORE_NAME>VM VCPLZ TVH Trà Vinh</STORE_NAME>
+        <CITY_CODE>67</CITY_CODE>
+        <CITY>Trà Vinh</CITY>
+        <ADDRESS>TTTM VinCom Plaza Trà Vinh, Kh</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>9.935765</LATITUDE>
+        <LONGITUDE>106.337044</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1594</STORE_CODE>
+        <STORE_NAME>VM VCPLZ YBI Yên Bái</STORE_NAME>
+        <CITY_CODE>24</CITY_CODE>
+        <CITY>Yên Bái</CITY>
+        <ADDRESS>Tầng 2 Tầng 2, TTTM Vincom Yên</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>21.70849</LATITUDE>
+        <LONGITUDE>104.881041</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1595</STORE_CODE>
+        <STORE_NAME>VM VCPLZ VLG Vĩnh Long</STORE_NAME>
+        <CITY_CODE>66</CITY_CODE>
+        <CITY>Vĩnh Long</CITY>
+        <ADDRESS>9 TTTM Vincom Plaza Vĩnh Long</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>10.246193</LATITUDE>
+        <LONGITUDE>105.977293</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1596</STORE_CODE>
+        <STORE_NAME>VM VCPLZ HCM Sài Gòn Res</STORE_NAME>
+        <CITY_CODE>54</CITY_CODE>
+        <CITY>Hồ Chí Minh</CITY>
+        <ADDRESS>188 TTTM Vincom Plaza Sài Gòn</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>10.816444</LATITUDE>
+        <LONGITUDE>106.707401</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1597</STORE_CODE>
+        <STORE_NAME>VM VC+ HCM Nam Long</STORE_NAME>
+        <CITY_CODE>54</CITY_CODE>
+        <CITY>Hồ Chí Minh</CITY>
+        <ADDRESS>71 VC+ KĐT Nam Long Số 71,Trầ</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>10.743937</LATITUDE>
+        <LONGITUDE>106.732463</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1598</STORE_CODE>
+        <STORE_NAME>VM VC+ THA Tĩnh Gia</STORE_NAME>
+        <CITY_CODE>35</CITY_CODE>
+        <CITY>Thanh Hóa</CITY>
+        <ADDRESS>1 Tầng 1, TTTM Vincom+ Tĩnh Gi</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>19.436655</LATITUDE>
+        <LONGITUDE>105.772228</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+    <STORE>
+        <STORE_CODE>1599</STORE_CODE>
+        <STORE_NAME>VM VCPLZ KGG Rạch Giá</STORE_NAME>
+        <CITY_CODE>68</CITY_CODE>
+        <CITY>Kiên Giang</CITY>
+        <ADDRESS>TTTM Vincom Plaza Kiên Giang L</ADDRESS>
+        <PHONE_NUMBER/>
+        <LATITUDE>10.003406</LATITUDE>
+        <LONGITUDE>105.080906</LONGITUDE>
+        <BLOCKED>0</BLOCKED>
+    </STORE>
+</MasterData>
